@@ -1,6 +1,6 @@
 # Photo Portfolio
 
-# this is a study of git hub visual code;
+> this is a study of git hub visual code.
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
